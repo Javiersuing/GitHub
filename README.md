@@ -59,4 +59,4 @@ These data contain reviews of 56 arabica coffee beans samples from the Almacafé
 
 # Source
 
-These data were collected from the Almacafé Quality Coffee Assurance Office of Colambia in Septembre 2019. www.almacafe.com.co.
+These data were collected from the Almacafé Quality Coffee Assurance Office of Colombia in Septembre 2019. www.almacafe.com.co.
