@@ -3,7 +3,7 @@
 # Data
 These data contain reviews of 56 arabica coffee beans samples from the Almacafé Quality Coffee Assurance Office trained reviewers. The features include:
 
-## Cup coffee quality measures
+## Cup coffee quality measurements
 * Aroma
 * Flavor
 * Aftertaste
@@ -15,7 +15,7 @@ These data contain reviews of 56 arabica coffee beans samples from the Almacafé
 * Sweetness
 * Overall
 
-## Green coffe beans measures
+## Green coffe beans measurements
 * HUMEDAD: Moisture on almond coffee beans.
 * PESO.INI.PERG: Initial weight of the almond beans with parchment or peel.
 * PESO.ALMEN: Green beans weight after peel removal.
@@ -44,7 +44,7 @@ These data contain reviews of 56 arabica coffee beans samples from the Almacafé
 * ALM.VERD.Y: Green coffee bean color in Y coordinate Cielab color space.
 * ALM.VERD.Z: Green coffee bean color in Z coordinate Cielab color space.
 
-## Roasted coffe beans measures
+## Roasted coffe beans measurements
 * CAFE.TOS.L*: Roasted coffee bean color on the L* Cielab color space
 * CAFE.TOS.a*: Roasted coffee bean color on the a* Cielab color space
 * CAFE.TOS.b*: Roasted coffee bean color on the b* Cielab color space
